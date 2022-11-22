@@ -15,6 +15,8 @@ Screencasts are used in business intelligence (BI) courses to demonstrate to lea
 
 - [ ] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: https://drive.google.com/file/d/1wH52SsGZgv4lnzUdmjqzTHhFTM6aKf03/view?usp=share_link
 
+Link to home_insurance dataset: https://drive.google.com/file/d/1acV6-yQCXdrmIiXwg2pJ5Gp_buXl2SYY/view?usp=share_link
+
 ### Step 2: Virtual Machine Exercise
 
 A virtual machine (VM) exercise requires learners to complete 3 - 6 actions in a Tableau Workbook or Power BI Report. A virtual machine exercise consists of:
